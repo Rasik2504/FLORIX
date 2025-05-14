@@ -31,7 +31,7 @@ body{
 }
 /*Side Navbar*/
 .side-navbar{
-    background-color: rgb(153, 118, 190);
+    background-color: rgb(155, 225, 255);
     width: 50%;
     height: 100%;
     position: fixed;
@@ -57,7 +57,7 @@ body{
 
 .side-navbar-link a:hover{
     text-decoration: underline;
-    color: rgb(184, 153, 247);
+    color: rgb(138, 7, 66);
 }
 .x-bar{
     text-align: right;
