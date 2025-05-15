@@ -93,6 +93,11 @@ body{
     color: rgb(255, 255, 255);
     cursor: pointer;
 }
+.header-image img{
+    height: 200px;
+    width: 200px;
+
+}
 
 .service{
     padding: 20px;
